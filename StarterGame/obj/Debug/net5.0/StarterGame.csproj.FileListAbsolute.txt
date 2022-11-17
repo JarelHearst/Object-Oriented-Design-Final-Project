@@ -1,0 +1,96 @@
+C:\Users\jarel\Downloads\StarterGame\StarterGame\bin\Debug\net5.0\StarterGame.exe
+C:\Users\jarel\Downloads\StarterGame\StarterGame\bin\Debug\net5.0\StarterGame.deps.json
+C:\Users\jarel\Downloads\StarterGame\StarterGame\bin\Debug\net5.0\StarterGame.runtimeconfig.json
+C:\Users\jarel\Downloads\StarterGame\StarterGame\bin\Debug\net5.0\StarterGame.runtimeconfig.dev.json
+C:\Users\jarel\Downloads\StarterGame\StarterGame\bin\Debug\net5.0\StarterGame.dll
+C:\Users\jarel\Downloads\StarterGame\StarterGame\bin\Debug\net5.0\ref\StarterGame.dll
+C:\Users\jarel\Downloads\StarterGame\StarterGame\bin\Debug\net5.0\StarterGame.pdb
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.csproj.AssemblyReference.cache
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.AssemblyInfoInputs.cache
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.AssemblyInfo.cs
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.csproj.CoreCompileInputs.cache
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.dll
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\net5.0\ref\StarterGame.dll
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.pdb
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.genruntimeconfig.cache
+C:\Users\jarel\Desktop\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.csproj.AssemblyReference.cache
+C:\Users\jarel\Desktop\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarel\Desktop\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.AssemblyInfoInputs.cache
+C:\Users\jarel\Desktop\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.AssemblyInfo.cs
+C:\Users\jarel\Desktop\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.csproj.CoreCompileInputs.cache
+C:\Users\jarel\Desktop\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.dll
+C:\Users\jarel\Desktop\StarterGame\StarterGame\obj\Debug\net5.0\ref\StarterGame.dll
+C:\Users\jarel\Desktop\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.pdb
+C:\Users\jarel\Desktop\StarterGame\StarterGame\bin\Debug\net5.0\StarterGame.exe
+C:\Users\jarel\Desktop\StarterGame\StarterGame\bin\Debug\net5.0\StarterGame.deps.json
+C:\Users\jarel\Desktop\StarterGame\StarterGame\bin\Debug\net5.0\StarterGame.runtimeconfig.json
+C:\Users\jarel\Desktop\StarterGame\StarterGame\bin\Debug\net5.0\StarterGame.runtimeconfig.dev.json
+C:\Users\jarel\Desktop\StarterGame\StarterGame\bin\Debug\net5.0\StarterGame.dll
+C:\Users\jarel\Desktop\StarterGame\StarterGame\bin\Debug\net5.0\ref\StarterGame.dll
+C:\Users\jarel\Desktop\StarterGame\StarterGame\bin\Debug\net5.0\StarterGame.pdb
+C:\Users\jarel\Desktop\StarterGame\StarterGame\obj\Debug\net5.0\StarterGame.genruntimeconfig.cache
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.csproj.AssemblyReference.cache
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.AssemblyInfoInputs.cache
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.AssemblyInfo.cs
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.csproj.CoreCompileInputs.cache
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.dll
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\ref\StarterGame.dll
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.pdb
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.csproj.AssemblyReference.cache
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.AssemblyInfoInputs.cache
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.AssemblyInfo.cs
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.csproj.CoreCompileInputs.cache
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.dll
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\ref\StarterGame.dll
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.pdb
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.exe
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.deps.json
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.runtimeconfig.json
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.runtimeconfig.dev.json
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.dll
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\ref\StarterGame.dll
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.pdb
+C:\Users\jarel\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.genruntimeconfig.cache
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.exe
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.deps.json
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.runtimeconfig.json
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.runtimeconfig.dev.json
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.dll
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\ref\StarterGame.dll
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.pdb
+C:\Users\Jarel\OneDrive - Columbus State University\Documents\School\Junior Year\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.genruntimeconfig.cache
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.exe
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.deps.json
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.runtimeconfig.json
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.runtimeconfig.dev.json
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.dll
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.pdb
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.csproj.AssemblyReference.cache
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.AssemblyInfoInputs.cache
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.AssemblyInfo.cs
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.csproj.CoreCompileInputs.cache
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.dll
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\ref\StarterGame.dll
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.pdb
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.genruntimeconfig.cache
+C:\Users\jarel\Documents\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\refint\StarterGame.dll
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.exe
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.deps.json
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.runtimeconfig.json
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.runtimeconfig.dev.json
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.dll
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\bin\Debug\net5.0\StarterGame.pdb
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.csproj.AssemblyReference.cache
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.AssemblyInfoInputs.cache
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.AssemblyInfo.cs
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.csproj.CoreCompileInputs.cache
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.dll
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\refint\StarterGame.dll
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.pdb
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\StarterGame.genruntimeconfig.cache
+C:\Users\Jarel Hearst\School\Junior Year\Fall Semester\Object-Oriented Design\FinalProject\StarterGame\obj\Debug\net5.0\ref\StarterGame.dll

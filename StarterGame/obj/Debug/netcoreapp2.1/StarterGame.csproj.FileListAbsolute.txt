@@ -1,0 +1,24 @@
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.deps.json
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.json
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.dev.json
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.dll
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.pdb
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csprojAssemblyReference.cache
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csproj.CoreCompileInputs.cache
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfoInputs.cache
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfo.cs
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.dll
+C:\Users\Rodrigo Obando\Documents\root\Courses2019\CPSC3175\Fall\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.pdb
+C:\Users\jarel\Downloads\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.deps.json
+C:\Users\jarel\Downloads\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.json
+C:\Users\jarel\Downloads\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.dev.json
+C:\Users\jarel\Downloads\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.dll
+C:\Users\jarel\Downloads\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.pdb
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csproj.AssemblyReference.cache
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfoInputs.cache
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfo.cs
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csproj.CoreCompileInputs.cache
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.dll
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.pdb
+C:\Users\jarel\Downloads\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.genruntimeconfig.cache
